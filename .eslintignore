@@ -1,0 +1,6 @@
+node_modules/
+build
+my-app*
+packages/pipesort-scripts/template
+packages/pipesort-scripts/fixtures
+fixtures/
